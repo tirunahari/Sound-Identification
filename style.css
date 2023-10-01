@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-family: 'Alkatra';
+    color:#8854d0;
+    
+}
+label {
+    font-size: 18px;
+    font-family: 'Andika';
+    color:grey;
+}
+#m1 {
+    background-color:#D980FA ;
+    border-radius: 10px;
+}
+button {
+    height:40px;
+    width:70px;
+    border-radius: 10px;
+    background-color:#FDA7DF ;
+}
+#m5 {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: grey;
+  text-align: center;
+  text-shadow:2px 2px 2px black;
+  font-family: monospace;
+  font-size: 20px;
+}
